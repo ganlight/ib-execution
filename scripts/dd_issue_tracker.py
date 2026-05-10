@@ -436,6 +436,7 @@ def _run_tests() -> int:
     tmp = tempfile.NamedTemporaryFile(suffix=".json", delete=False, mode="w")
     tmp_path = tmp.name
     tmp.close()
+    os.unlink(tmp_path)  # Remove empty file so init can create it fresh
 
     errors = []
 
