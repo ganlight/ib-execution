@@ -70,7 +70,7 @@ META叠加：
   references/bond/guarantee-chain-analysis.md   — 担保链分析框架
   references/bond/urban-bond-credit-analysis.md — 城投专项信用分析
   references/bond/abs-asset-pool-analysis.md    — ABS资产池分析（如涉及ABS）
-  references/shared/dd-checkout-master.md       — 尽调总清单
+  references/shared/dd-checklist-master.md      — 尽调总清单
   references/shared/dd-redflag-industry-library.md — 行业风险信号库
 
 脚本工具：
